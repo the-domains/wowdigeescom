@@ -1,17 +1,17 @@
-typography_spectrum: 0.11130784428678453
+layout_spectrum: 0.15399650714249524
+typography_spectrum: 0.6820999056471531
 color:
-  brandStrength: 0.7908013367559761
-  lightness: 0.9155996479094028
-  saturation: 0.27601752732880414
-  rhythmicContrast: 0.8246249323710799
+  brandStrength: 0.01847489201685063
+  lightness: 0.9006914532715732
+  saturation: 0.17816862219206916
+  rhythmicContrast: 0.28341939135675903
   brandColors:
-    - '#151515'
-    - '#7E6423'
-    - '#ECCB58'
-    - '#FFFFFF'
-    - '#800000'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 github: true
-layout_spectrum: 0.34503379883244634
 analytics:
   twitter: 'https://twitter.com/akasha8k'
   google: UA-108885327-1
