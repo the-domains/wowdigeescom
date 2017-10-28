@@ -33,7 +33,7 @@ navigation:
   - name: Digital Music Label
     url: 'https://wowdigees.com'
     type: external
-title: ''
+title: Score to win!
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
