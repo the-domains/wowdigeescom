@@ -52,7 +52,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -63,6 +62,6 @@ content:
 description: Digital Music Label
 purpose:
   - type: contact
-    url: 'mailto:statusimperialmusic@gmail.com'
-    label: Contact Us
+    url: 'mailto:info@wowdigees.com'
+    label: Booking & Artist Inquiry
 url: 'http://wowdigees.com'
