@@ -17,8 +17,8 @@ analytics:
   google: UA-108885327-1
 author:
   email: info@wowdigees.com
-  name: Status Imperial Media Group
-  url: 'http://statusimperial.com'
+  name: Wow Digees Music Group
+  url: 'http://wowdigees.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fa9662-35ad-4f53-810d-8fff4a828c0b.png
 name: wowdigees.com
@@ -88,3 +88,4 @@ purpose:
   - type: contact
     url: 'mailto:statusimperialmusic@gmail.com'
     label: Contact Us
+url: 'http://wowdigees.com'
