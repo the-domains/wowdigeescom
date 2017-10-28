@@ -21,7 +21,7 @@ author:
   url: 'http://wowdigees.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fa9662-35ad-4f53-810d-8fff4a828c0b.png
-name: wowdigees
+name: Wow Digees Music Group
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -34,80 +34,7 @@ navigation:
     url: 'https://wowdigees.com'
     type: external
 title: score to win!
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5055175f-8b1d-491d-ae68-3b609c43b195.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5055175f-8b1d-491d-ae68-3b609c43b195.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61c43747-a6ad-4be4-bde8-b65681e03013.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/61c43747-a6ad-4be4-bde8-b65681e03013.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/804a6f8a-817c-4921-8e02-fb32638b3dc9.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/804a6f8a-817c-4921-8e02-fb32638b3dc9.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Digital Music Label
 purpose:
   - type: contact
