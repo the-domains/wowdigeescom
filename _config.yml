@@ -1,4 +1,3 @@
-layout_spectrum: 0.15399650714249524
 typography_spectrum: 0.6820999056471531
 color:
   brandStrength: 0.01847489201685063
@@ -12,6 +11,7 @@ color:
     - '#FF712C'
     - '#695D46'
 github: true
+layout_spectrum: 0.15399650714249524
 analytics:
   twitter: 'https://twitter.com/akasha8k'
   google: UA-108885327-1
@@ -22,6 +22,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fa9662-35ad-4f53-810d-8fff4a828c0b.png
 name: Wow Digees Music Group
+url: 'http://wowdigees.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -33,6 +34,9 @@ navigation:
   - name: Digital Music Label
     url: 'https://wowdigees.com'
     type: external
+  - name: Artist's
+    id: 43eb6337-4113-4fcb-8078-ac27896a7912
+    type: content
 title: Wow Digees
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -43,19 +47,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d248590d-fb5f-4f1e-a2d2-3675bd1f8790.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -64,4 +68,3 @@ purpose:
   - type: contact
     url: 'mailto:info@wowdigees.com'
     label: Booking & Artist Inquiry
-url: 'http://wowdigees.com'
